@@ -29,7 +29,3 @@
 <div align="center">
  <img src="/profile/hr.svg" width="100%" height="100%">
 </div>
-
-<div align="center">
- <img src="/profile/hr.svg" width="100%" height="100%">
-</div>
